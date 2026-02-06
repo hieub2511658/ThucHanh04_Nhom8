@@ -11,7 +11,7 @@ Mô tả: Thiết kế cơ bản Powerpoint, bao gồm định dạng slide mast
 
  Kết quả được trình bày trong file: 
 
- 
+ [Buoi04_Bai2.1_QUỐC_THỊNH_VÀ_MINH_HIẾU.pptx](./Buoi04_Bai2.1_QUỐC_THỊNH_VÀ_MINH_HIẾU.pptx)
 
 ### Bài TH 2: 
 
