@@ -21,3 +21,5 @@ Mô tả: Thiét kế nâng cao Powerpoint, bao gồm định dạng kiểu slid
 
 Kết quả được trình bày trong file:
 
+[Buoi09_Hồ_Vũ_Thành_và_Bùi_Thiện_Nhân_và_Nguyễn_Thị_Ngọc_Thùy_Bài_2.pptx](Buoi09_Hồ_Vũ_Thành_và_Bùi_Thiện_Nhân_và_Nguyễn_Thị_Ngọc_Thùy_Bài_2.pptx)
+
